@@ -1,0 +1,6 @@
+D:\CNTT\Lập trình mạng\bai 2\obj\Debug\bai 2.csprojResolveAssemblyReference.cache
+D:\CNTT\Lập trình mạng\bai 2\bin\Debug\bai 2.exe.config
+D:\CNTT\Lập trình mạng\bai 2\bin\Debug\bai 2.exe
+D:\CNTT\Lập trình mạng\bai 2\bin\Debug\bai 2.pdb
+D:\CNTT\Lập trình mạng\bai 2\obj\Debug\bai 2.exe
+D:\CNTT\Lập trình mạng\bai 2\obj\Debug\bai 2.pdb
