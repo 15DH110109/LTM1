@@ -1,0 +1,6 @@
+D:\CNTT\Lập trình mạng\Xac dinh IP may cuc bo\bin\Debug\Xac dinh IP may cuc bo.exe.config
+D:\CNTT\Lập trình mạng\Xac dinh IP may cuc bo\bin\Debug\Xac dinh IP may cuc bo.exe
+D:\CNTT\Lập trình mạng\Xac dinh IP may cuc bo\bin\Debug\Xac dinh IP may cuc bo.pdb
+D:\CNTT\Lập trình mạng\Xac dinh IP may cuc bo\obj\Debug\Xac dinh IP may cuc bo.csprojResolveAssemblyReference.cache
+D:\CNTT\Lập trình mạng\Xac dinh IP may cuc bo\obj\Debug\Xac dinh IP may cuc bo.exe
+D:\CNTT\Lập trình mạng\Xac dinh IP may cuc bo\obj\Debug\Xac dinh IP may cuc bo.pdb
